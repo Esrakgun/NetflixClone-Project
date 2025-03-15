@@ -1,13 +1,37 @@
-# React + Vite
+# 🎬 Netflix Clone 🍿
+Netflix Clone projesi, film ve dizi tutkunları için modern ve kullanıcı dostu bir platform sunuyor. React ve Redux gibi güçlü araçlarla geliştirilmiş bu uygulama, dinamik içerik yönetimi, hızlı veri çekme ve etkileyici video izleme özellikleriyle zenginleştirilmiştir. 🎥✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛠️ Kullanılan Teknolojiler
+React & Redux: Dinamik ve verimli içerik yönetimi.
+Axios: Hızlı veri çekme ve API entegrasyonu.
+React Player: Video izleme deneyimi.
+TailwindCSS: Modern, duyarlı ve hızlı tasarım.
+Splide.js: Slider efektleri ve video özellikleri.
+Vite: Hızlı geliştirme süreci.
 
-Currently, two official plugins are available:
+# 🧑‍💻 Kimlere Hitap Ediyor?
+Bu proje, aşağıdaki gruplara hitap ediyor:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Film ve Dizi Severler: Kullanıcılar, favori içeriklerini kolayca bulup izleme listelerine ekleyebilir.
+Web Geliştiriciler: React, Redux ve diğer modern teknolojilerle geliştirilen bir frontend projesine ilgi duyanlar.
+Kullanıcı Deneyimi (UX) Tasarımcıları: Dinamik ve kullanıcı dostu arayüzler oluşturma konusunda ilham almak isteyenler.
+Teknoloji Meraklıları: Web uygulamalarıyla ilgili yeni teknolojileri keşfetmek isteyen herkes.
 
-## Expanding the ESLint configuration
+# 🌟 Öne Çıkan Özellikler
+Film İzleme Listesi: Kullanıcılar favori filmlerini kaydedebilir ve izleme listelerini oluşturabilir.
+Responsive Tasarım: Farklı cihazlarda mükemmel deneyim.
+Kategoriler ve Filtreleme: İçerikler türlerine göre kategorize edilir ve kullanıcılar kolayca arama yapabilir.
+Dinamik Slider: Splide.js ile film ve dizi posterlerine göz atın!
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# NetflixClone-Project
+# 📈 Geliştirilmesi Planlanan Özellikler
+Kullanıcı Girişi ve Profili: Kullanıcıların kişisel hesaplarıyla giriş yapabilmesi.
+Arama ve Filtreleme: Kullanıcılar, film türüne, yılına veya oyuncularına göre filtreleme yapabilir.
+Video Yorumları: Kullanıcılar, izledikleri içerikler hakkında yorum yapabilir.
+
+#  📬 İletişim:
+Projem hakkında daha fazla bilgi almak ya da geri bildirimde bulunmak isterseniz, aşağıdaki iletişim kanallarından bana ulaşabilirsiniz: 📧 E-posta: akgundogduesr@gmail.com
+
+# 📷 Ekran Görüntüleri:
+
+https://github.com/user-attachments/assets/598bcd46-b223-448a-8e78-c7aa6e29abc4
+
